@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Roboto+Mono');
+
+.heads {
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 20px;
+	padding-bottom:20px;
+	margin: 20px;
+}
+
+.heads h {
+	font-size: 100px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+.heads p{
+	font-family: 'Roboto Mono', sans-serif;
+}
+
+.slides{
+	padding-left:200px;
+	padding-right:200px;
+	align-content: center;
+}
+
+.slides ul{
+	list-style: none;
+	padding:0px;
+	margin:10px;
+}
+
+.slides img{
+	width:100%;
+	padding-bottom:30px;
+}
